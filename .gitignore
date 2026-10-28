@@ -1,0 +1,4 @@
+.venv/
+*.json
+!*.example.json
+__pycache__/
